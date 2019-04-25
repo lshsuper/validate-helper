@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Common.Validation
+namespace validate.helper.tools
 {
     /// <summary>
     /// 校验上下文
